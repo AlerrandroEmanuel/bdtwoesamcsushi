@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Produtos>
+  <Produto>
+    <Id>1</Id>
+    <Nome>Teclado Mecânico</Nome>
+    <Preco>299.90</Preco>
+    <Estoque>50</Estoque>
+  </Produto>
+  <Produto>
+    <Id>2</Id>
+    <Nome>Mouse Gamer</Nome>
+    <Preco>159.90</Preco>
+    <Estoque>120</Estoque>
+  </Produto>
+  <Produto>
+    <Id>3</Id>
+    <Nome>Monitor 24 Polegadas</Nome>
+    <Preco>899.90</Preco>
+    <Estoque>30</Estoque>
+  </Produto>
+</Produtos>

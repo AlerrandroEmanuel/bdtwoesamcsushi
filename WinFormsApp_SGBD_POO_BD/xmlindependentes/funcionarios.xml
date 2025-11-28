@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Funcionarios>
+  <Funcionario>
+    <Id>101</Id>
+    <Nome>Maria Silva</Nome>
+    <Cargo>Analista de Sistemas</Cargo>
+    <Salario>4500.00</Salario>
+  </Funcionario>
+  <Funcionario>
+    <Id>102</Id>
+    <Nome>João Pereira</Nome>
+    <Cargo>Desenvolvedor Backend</Cargo>
+    <Salario>5200.00</Salario>
+  </Funcionario>
+  <Funcionario>
+    <Id>103</Id>
+    <Nome>Ana Souza</Nome>
+    <Cargo>UX Designer</Cargo>
+    <Salario>4800.00</Salario>
+  </Funcionario>
+</Funcionarios>

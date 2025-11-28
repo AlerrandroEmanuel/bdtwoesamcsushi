@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Clientes>
+  <Cliente>
+    <Id>500</Id>
+    <Nome>Carlos Alberto</Nome>
+    <Email>carlos@gmail.com</Email>
+    <Telefone>11965432211</Telefone>
+  </Cliente>
+  <Cliente>
+    <Id>501</Id>
+    <Nome>Juliana Costa</Nome>
+    <Email>juliana@hotmail.com</Email>
+    <Telefone>21987653322</Telefone>
+  </Cliente>
+  <Cliente>
+    <Id>502</Id>
+    <Nome>Pedro Martins</Nome>
+    <Email>pedro@gmail.com</Email>
+    <Telefone>31955441122</Telefone>
+  </Cliente>
+</Clientes>
